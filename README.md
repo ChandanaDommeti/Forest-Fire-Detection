@@ -18,7 +18,7 @@ This project aims to classify images into two categories â€” fire and no fire â€
   * CNN (Convolutional Neural Network)
   * RNN (Recurrent Neural Network)
   * ANN (Artificial Neural Network)
-* What is CNN in simple terms?
+* What is CNNs?
 * Project pipeline for image classification using CNN
 
 ---
