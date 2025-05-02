@@ -1,6 +1,3 @@
-Thanks! Here's the updated README.md file reflecting your project title Forest Fire Detection using Deep Learning:
-
-📄 README.md
 
 # 🔥 Forest Fire Detection using Deep Learning
 
