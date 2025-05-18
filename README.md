@@ -1,7 +1,7 @@
 
 # 🔥 Forest Fire Detection using Deep Learning
 
-Week 1 Assignment – Green SHELL AICTE Internship
+Green SHELL AICTE Internship
 
 ## 🧠 Overview
 
