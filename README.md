@@ -1,6 +1,3 @@
-Here’s a professional and well-structured **README.md** content for your wildfire detection project:
-
----
 
 # 🔥 Forest Fire Detection Using Deep Learning
 
